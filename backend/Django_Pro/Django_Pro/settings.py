@@ -180,7 +180,7 @@ EMAIL_HOST = "smtp.gmail.com"
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 EMAIL_HOST_USER = "Give Your Gmail Here"          # Replace with your Gmail
-EMAIL_HOST_PASSWORD = "Write Your App Generated PassWord"     # App password
+EMAIL_HOST_PASSWORD = "Write Your App Generated PassWord in google"     # App password
 DEFAULT_FROM_EMAIL = EMAIL_HOST_USER
 
 # -------------------------------
